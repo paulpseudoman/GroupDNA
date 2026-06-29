@@ -101,7 +101,6 @@ python GroupDNA.py
 5. The report will be printed in the console.
 6. A `.txt` report file will also be created in the same folder as the chat export.
 
-Example output file:
 ## Output Sections
 
 The generated report includes:
